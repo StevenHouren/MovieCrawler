@@ -1,0 +1,2 @@
+# MovieCrawler
+This application uses NodeJS, Axios, the OMDB api, MongoDB, JQuery, Passport, and Bootstrap.  The application allows users to search for movies using the omdb api, navigate the a page with all the movies relevant information, and save their favorite movies to their profiles.  The applicaiton uses passport for user registration and authentication and MongoDB to store all necessary information.  
